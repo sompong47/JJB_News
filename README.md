@@ -84,10 +84,8 @@ dependencies:
 
 ## 🖥 Screenshots (ภาพตัวอย่าง)
 
-|
-<img width="357" height="797" alt="สกรีนช็อต 2025-08-14 205054" src="https://github.com/user-attachmen<img width="358" height="770" alt="สกรีนช็อต 2025-08-14 205118" src="https://github.com/user-attachments/assets/6a4c0825-5b6b-4088-99bc-5ed6256febe4" />
-ts/assets/07888a1e-2a91-492b-b283-f34736878ae3" />
 
+<img width="357" height="797" alt="สกรีนช็อต 2025-08-14 205054" src="https://github.com/user-attachmen
 
 
 ## 🚀 Build & Deploy
