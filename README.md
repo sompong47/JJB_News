@@ -83,10 +83,12 @@ dependencies:
 ```
 
 ## 🖥 Screenshots (ภาพตัวอย่าง)
-
-| Home Screen | News Detail | Categories |
 |-------------|-------------|------------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Categories](screenshots/categories.png) |
+<img width="357" height="797" alt="สกรีนช็อต 2025-08-14 205054" src="https://github.com/user-attachments/assets/07888a1e-2a91-492b-b283-f34736878ae3" />
+<img width="358" height="770" alt="สกรีนช็อต 2025-08-14 205118" src="https://github.com/user-attachments/assets/9ea86a55-ebc6-4ca1-b365-ed205ba3bd3b" />
+<img width="359" height="774" alt="สกรีนช็อต 2025-08-14 205136" src="https://github.com/user-attachments/assets/b8d9aa56-a8f1-4f23-a8ae-b00fd1ed4027" />
+<img width="346" height="768" alt="สกรีนช็อต 2025-08-14 205152" src="https://github.com/user-attachments/assets/a387d298-d6f8-4327-9836-d14790681efb" />
+
 
 *หมายเหตุ: เพิ่มภาพตัวอย่างในโฟลเดอร์ `screenshots/`*
 
