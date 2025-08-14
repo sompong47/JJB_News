@@ -1,0 +1,25 @@
+name: rss_news_app_ui
+description: Flutter RSS News App with Beautiful UI
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  dart_rss: ^3.0.3
+  url_launcher: ^6.1.10
+  cached_network_image: ^3.2.3
+  pull_to_refresh: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
